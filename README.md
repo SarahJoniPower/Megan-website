@@ -11,10 +11,10 @@ A website for writer Megan Brownrigg's collection of articles and work.
 
 ### Tech Stack
 
-Frontend: React.js, Typescript, CSS 
-Backend: Python, Flask 
-CMS: Contentful 
+- Frontend: React.js, Typescript, CSS 
+- Backend: Python, Flask 
+- CMS: Contentful 
 
 Notes:
-CMS data will be in an API which the frontend will call on.
-Contentful will need to be used to upload the pdfs and the photos. 
+- CMS data will be in an API which the frontend will call on.
+- Contentful will need to be used to upload the pdfs and the photos. 
