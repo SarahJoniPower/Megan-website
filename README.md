@@ -2,14 +2,14 @@
 
 A website for writer Megan Brownrigg's collection of articles and work. 
 
-**Tech Requirements**
+### Tech Requirements
 
 4 pages:
 - Homepage/ landing page is a grid of photos - each of which links to one of Megan's articles in various magazines or an uploaded pdf of the article as it appeared in print. 
 - Then three additional pages - 'About', 'Thoughts', 'Contact'.
 
 
-**Tech Stack**
+### Tech Stack
 
 Frontend: React.js, Typescript, CSS 
 Backend: Python, Flask 
